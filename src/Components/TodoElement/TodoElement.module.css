@@ -1,0 +1,21 @@
+.Ele {
+  border: 2px solid firebrick;
+  margin: auto;
+  margin-top: 15px;
+  width: 550px;
+  font-size: 25px;
+  background: linear-gradient(blue, white);
+  color: #ffffff;
+  padding: 8px;
+}
+
+.Ele button {
+  width: 120px;
+  height: 45px;
+  background: rgb(191, 10, 228);
+  color: #ff0404;
+  border-radius: 8px;
+  margin-left: 15px;
+  font-weight: 900;
+  font-size: 25px;
+}
